@@ -2,9 +2,11 @@
 
 ## Overview
 This project is a Retrieval-Augmented Generation (RAG) chatbot that provides intelligent responses by retrieving relevant data from the web and generating responses based on the retrieved content. The chatbot is deployed as a web application for public access.
-
-
-
+## Features
+- Web scraping for real-time data retrieval
+- Intelligent response generation using a retrieval-augmented approach
+- Web-based user interface for interaction
+- Online deployment for public usage
 ## Tech Stack
 - **Frontend**: Gradio (for user interface)
 - **Backend**: Flask or FastAPI (for API handling)
