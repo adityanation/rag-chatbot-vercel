@@ -60,5 +60,5 @@ To deploy the chatbot online:
 This project is licensed under the MIT License.
 
 ## Contact
-For questions, contact [your-email@example.com] or visit the repository's issues section.
+For questions, contact [adityasinha06841@gmail.com] or visit the repository's issues section.
 
